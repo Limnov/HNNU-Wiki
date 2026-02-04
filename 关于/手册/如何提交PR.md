@@ -1,6 +1,6 @@
 # 如何提交 PR
 
-提交 GitHub Pull Request（PR）是将你的代码变更合并到目标仓库的正式方式，通过 PR，你可以参与到本手册的制作与修改中。在阅读以下内容前，请保证你下载了 **Git**，详见 [Git的介绍](../chang-yong-tui-jian/gong-ju/git.md)。
+提交 GitHub Pull Request（PR）是将你的代码变更合并到目标仓库的正式方式，通过 PR，你可以参与到本手册的制作与修改中。在阅读以下内容前，请保证你下载了 **Git**，详见 [Git的介绍](/工具箱/Git.md)。
 
 以下是详细步骤：
 

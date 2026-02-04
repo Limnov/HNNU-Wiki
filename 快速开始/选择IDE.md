@@ -1,6 +1,6 @@
 # 选择 IDE
 
-在 [入门编程语言](入门/快速入门编程语言.md) 中提到了以下内容：
+在 [学习路线图](/快速开始/学习路线图.md#编程语言) 中提到了以下内容：
 
 * [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld\&type=cpp)
 * [Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
