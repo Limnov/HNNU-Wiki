@@ -1,14 +1,42 @@
-本手册为《海南师范大学信息科学技术学院帮助手册》，第一版发布于2024年10月22日，至今仍在不断更新。本手册无法帮助大家深入了解某一个方面的知识，或是掌握什么技能，而是旨在为本院学生提供有关**技术学习/学院生活/学科竞赛**相关指导与建议。希望本手册能够给大家带来帮助，愿大家能找到属于自己的路。
+# HNNU-Wiki
 
-手册由以下人员编写：
+<div align="center">
 
-- [**Freak**](https://freakk.love/)
-- [**panda-lsy**](https://github.com/panda-lsy)
+**海南师范大学Wiki**
+<br>
+<img src="logo.jpg" alt="HNNU Wiki Logo" width="150"/>
+<br/>
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Freakz3z/HNNU-Wiki?style=social)](https://github.com/Freakz3z/HNNU-Wiki)
 
-致谢：
+一个专为海南师范大学学生打造的Wiki
 
-- [**Siyi**](https://github.com/siyio)
-- [**悠悠youyou**](https://github.com/youyou-pm10)
+</div>
 
-同时感谢竞赛中心的负责老师吴淑雷院长以及各位成员,是他们促成了本手册的诞生。
+---
 
+## 📖 关于手册
+
+本手册第一版发布于 2024 年 10 月 22 日,至今仍在持续更新中。
+
+我们深知一本手册无法帮助大家深入了解某一个领域的知识或掌握某项技能,但希望能为你的大学生涯提供一些方向和参考,帮助你找到属于自己的路。
+
+目前手册的内容仅覆盖以下学院：
+
+- 人工智能学院
+
+## 🤝 贡献指南
+
+欢迎所有同学为本手册贡献内容!
+
+如果你想修改错别字、补充内容或添加新的章节,请参考[如何提交 PR](手册/如何提交PR.md)。
+
+## 📝 免责声明
+
+本手册内容仅供参考,具体信息请以学校官方通知为准。详见[免责声明](手册/免责声明.md)。
+
+## 👥 贡献者
+
+感谢所有为本项目贡献的同学!
+
+![贡献者](https://contrib.rocks/image?repo=Freakz3z/HNNU-Wiki)
