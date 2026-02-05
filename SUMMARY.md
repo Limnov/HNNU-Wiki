@@ -37,7 +37,7 @@
 * 后端
     * [简介](/技术栈/后端/简介.md)
     * [后端框架](/技术栈/后端/后端框架.md)
-    * [项目实战：Flask REST API](/技术栈/后端/项目实战-Flask REST API.md)
+    * [项目实战：Flask REST API](/技术栈/后端/项目实战-FlaskRESTAPI.md)
 * AI
     * [先导](/技术栈/AI/先导.md)
     * [框架介绍](/技术栈/AI/框架.md)
@@ -67,7 +67,7 @@
 * [pip](/工具箱/pip.md)
 * [Conda](/工具箱/Conda.md)
 * [Docker](/工具箱/Docker.md)
-* [VS Code高级技巧](/工具箱/VS Code高级技巧.md)
+* [VS Code高级技巧](/工具箱/VSCode高级技巧.md)
 
 ## 校园生活
 

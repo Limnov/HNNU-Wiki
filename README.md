@@ -21,6 +21,8 @@
 [![提交活跃度](https://img.shields.io/github/commit-activity/m/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=活跃度)](https://github.com/Freakz3z/HNNU-Wiki/graphs/commit-activity)
 [![贡献者](https://img.shields.io/github/contributors/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=贡献者)](https://github.com/Freakz3z/HNNU-Wiki/graphs/contributors)
 
+如果你觉得这个项目对你有帮助,请给我们一个⭐️吧!
+
 </div>
 
 
@@ -43,7 +45,7 @@
 - 2024-10-22: 手册第一版发布
 - 2026-02-04: 手册第二版发布，内容全面更新，自制文档平台，支持国内访问
 
-详细见[CHANGELOG](/CHANGELOG.md)
+详细见[CHANGELOG](/CHANGELOG.md)。
 
 ## 贡献指南
 
