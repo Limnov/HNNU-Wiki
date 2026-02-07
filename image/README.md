@@ -13,12 +13,6 @@ image/
 │   └── AI环境搭建-PyTorch和CUDA安装.png.json
 ├── 2023版培养方案.png
 │   └── 2023版培养方案.png.json
-├── 计科.png
-│   └── 计科.png.json
-├── 网安.png
-│   └── 网安.png.json
-├── 软工.png
-│   └── 软工.png.json
 ├── 2023-2024学年班级测评细则.png
 │   └── 2023-2024学年班级测评细则.png.json
 ├── 2024-2025学年班级测评细则.webp
