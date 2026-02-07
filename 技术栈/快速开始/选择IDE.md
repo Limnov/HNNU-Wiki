@@ -1,99 +1,221 @@
 # 选择 IDE
 
-在 [学习路线图](/快速开始/学习路线图.md) 中提到了以下内容：
+在 [学习路线图](/技术栈/快速开始/学习路线图.md) 中提到了一些开发工具。本文将根据实际使用体验，介绍各种 IDE 的特点，帮助你选择适合自己的工具。
 
-* [C++在线编辑器](https://www.runoob.com/try/runcode.php?filename=helloworld\&type=cpp)
-* [Dev-C++：适合初学者的IDE](https://sourceforge.net/projects/orwelldevcpp/)
+## 主流 IDE 对比
 
-在本文中，编程语言将不止限制于 C/C++，笔者也根据自己的使用体验和实际情况来聊一聊各种 IDE，希望你能选择到适合自己的 IDE。
+### Visual Studio Code（强烈推荐）
 
-## 对各种IDE的分析评价
+**适用语言**：JavaScript, TypeScript, Python, C++, Java, Go, PHP, Ruby 等
 
-### 1. [Visual Studio Code](https://code.visualstudio.com/)
+**优势：**
+- ✅ 免费且开源，跨平台
+- ✅ 丰富的插件生态系统，几乎支持所有语言
+- ✅ 内置 Git 支持，强大的调试功能
+- ✅ 轻量级，启动速度快
+- ✅ 智能代码补全和提示
+- ✅ 集成终端
 
-* **适用语言**：JavaScript, TypeScript, Python, C++, Java, Go, PHP, Ruby 等
-* **优势**：
-  * 免费且开源，跨平台（Windows, macOS, Linux）。
-  * 丰富的插件生态系统，几乎支持所有语言和框架。
-  * 内置 Git 支持，强大的调试功能。
-  * 轻量级，启动速度快。
-* **用户群体**：前端开发者、全栈开发者、数据科学家
+**适用场景：**
+- 前端开发（HTML/CSS/JavaScript）
+- 全栈开发
+- 数据科学（Python）
+- 几乎所有编程语言
 
-> 值得一提的是，笔者编写这本手册使用的就是 VSCode，包括项目的开发也是。VSCode 是目前为止笔者使用的最舒服的 IDE 而没有之一。几乎支持所有的语言和框架，这点在笔者看来对其他 IDE 有些降维打击了，大力推崇。~~但 VSCode 被某人评价为文本编辑器。~~
+**推荐理由：**
+VS Code 是目前最受欢迎的代码编辑器，支持几乎所有语言和框架。插件生态极其丰富，可以根据需要自由定制。编写这本 Wiki 使用的就是 VS Code。
 
-### 2. [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+### IntelliJ IDEA
 
-* **适用语言**：Java, Kotlin, Groovy, Scala, JavaScript, SQL 等
-* **优势**：
-  * 强大的代码智能提示和重构功能。
-  * 集成的版本控制系统支持（如 Git）。
-  * 完善的插件生态，支持多种框架（如 Spring, Hibernate）。
-  * 优秀的性能，适合大型项目。
-* **用户群体**：Java 开发者、企业级应用开发者
+**适用语言**：Java, Kotlin, Scala, Groovy
 
-> Java 开发的首选，个人认为使用体验跟 VSCode 类似。
+**优势：**
+- ✅ 强大的代码智能提示和重构功能
+- ✅ 集成版本控制系统
+- ✅ 完善的插件生态
+- ✅ 优秀的性能，适合大型项目
 
-### 3. [PyCharm](https://www.jetbrains.com/pycharm/)
+**适用场景：**
+- Java 开发（首选）
+- 企业级应用开发
+- Spring 等框架开发
 
-* **适用语言**：Python
-* **优势**：
-  * 专为 Python 开发设计，功能强大。
-  * 代码分析和调试工具非常完善。
-  * 集成 Django 和 Flask 等框架的支持。
-  * 版本控制系统集成。
-* **用户群体**：Python 开发者、数据科学家、Web 开发者
+### PyCharm
 
-> 虽然但是，笔者也没有使用过 PyCharm，所以不好对其进行更多的评价。但集成 Django 和 Flask 的支持确实是很诱人的。
+**适用语言**：Python
 
-### 4. [Visual Studio](https://visualstudio.microsoft.com/vs/)
+**优势：**
+- ✅ 专为 Python 设计，功能强大
+- ✅ 代码分析和调试工具完善
+- ✅ 集成 Django 和 Flask 框架
+- ✅ 版本控制系统集成
 
-* **适用语言**：C#, C++, Visual Basic, F#, JavaScript 等
-* **优势**：
-  * 功能强大，适合 Windows 应用和 Web 应用开发。
-  * 支持 Azure 集成，适合云开发。
-  * 强大的调试和测试工具。
-  * 适合大型企业和团队开发。
-* **用户群体**：C# 开发者、Windows 应用开发者、企业开发团队
+**适用场景：**
+- Python Web 开发
+- 数据科学
+- 机器学习
 
-> 对于笔者自己而言，VS 的使用体验是最差的，当然如果只是用来学习基本的 C/C++还尚且足够，好过 DEV-C++。由于笔者没有开发过关于 C/C++的项目，所以不好对其进行更多的评价。
+### Visual Studio
 
-### 5. [Atom](https://atom.io/) ⚠️ 已停止维护
+**适用语言**：C#, C++, Visual Basic, F#, JavaScript
 
-> **重要提示**：Atom 已于 2022年12月15日停止维护，GitHub 推荐用户迁移到 [VS Code](https://code.visualstudio.com/) 或其他替代品。
+**优势：**
+- ✅ 功能强大，适合 Windows 应用开发
+- ✅ 支持 Azure 集成
+- ✅ 强大的调试和测试工具
+- ✅ 适合大型项目
 
-* **适用语言**：HTML, CSS, JavaScript, Python, Ruby 等
-* **历史优势**：
-  * 曾经免费且开源，易于自定义。
-  * 内置 Git 支持，适合团队协作。
-  * 包含多种主题和插件，用户可以根据需求进行扩展。
-* **替代方案**：[VS Code](https://code.visualstudio.com/)、[Sublime Text](https://www.sublimetext.com/)
+**适用场景：**
+- C# 开发（首选）
+- Windows 桌面应用
+- .NET 开发
+- 游戏开发（Unity）
 
-### 5. [Sublime Text](https://www.sublimetext.com/)
+### Sublime Text
 
-* **适用语言**：几乎所有编程语言
-* **优势**：
-  * 极快的启动速度和响应速度。
-  * 强大的多光标编辑功能。
-  * 丰富的包生态系统。
-  * 跨平台支持。
-* **用户群体**：追求效率的开发者、文本编辑爱好者
+**适用语言**：几乎所有编程语言
 
-> 轻量级但功能强大，适合不喜欢复杂IDE的用户。无限期免费试用（完整版需购买许可）。
+**优势：**
+- ✅ 极快的启动和响应速度
+- ✅ 强大的多光标编辑
+- ✅ 丰富的包生态系统
+- ✅ 轻量级
 
-### 6. [Android Studio](https://developer.android.com/studio)
+**适用场景：**
+- 快速编辑文本和代码
+- 追求效率的开发者
+- 不喜欢复杂 IDE 的用户
 
-* **适用语言**：Java, Kotlin
-* **优势**：
-  * 官方 Android 开发 IDE，支持所有 Android 相关开发。
-  * 强大的布局编辑器和模拟器。
-  * 集成 Gradle 构建系统，简化项目管理。
-* **用户群体**：Android 应用开发者
+### Android Studio
 
-> 安卓开发的首选，只是作为一个例子放在这里，貌似在日后很长的学习中都不会用到。
+**适用语言**：Java, Kotlin
 
-## 另外的一些话
+**优势：**
+- ✅ 官方 Android 开发 IDE
+- ✅ 强大的布局编辑器
+- ✅ 集成模拟器
+- ✅ 支持 Gradle 构建系统
 
-有的同学可能会问，能不能一次性下载所有的IDE以备后面的学习和开发使用。答案当然是肯定的，但是不同的 IDE 间可能会出现一些问题，比如如果先下载了 VS 后再去 VSCode 中使用 C/C++就可能会出现一些问题，需要额外的花时间去解决。这当然不是什么非常大的事情，但是还是建议大家根据自己的需求来选择适合自己的 IDE。
+**适用场景：**
+- Android 应用开发
+- 移动应用开发
 
-## 更多代码编辑器及工具
-[工具软件简介 - OI Wiki](https://oi-wiki.org/tools/)
+## 按语言选择 IDE
+
+### Python
+- **VS Code** + Python 扩展（推荐新手）
+- **PyCharm Community**（专业开发）
+- **Jupyter Notebook**（数据分析）
+
+### C/C++
+- **VS Code** + C/C++ 扩展（推荐）
+- **Visual Studio**（Windows，功能强大）
+- **Dev-C++**（初学者，NOI/NOIP 等比赛指定工具）
+- **Code::Blocks**（免费，跨平台）
+
+### Java
+- **IntelliJ IDEA**（首选，强烈推荐）
+- **VS Code** + Java 扩展（轻量级）
+- **Eclipse**（免费，经典但较老）
+
+### JavaScript/TypeScript
+- **VS Code**（首选，强烈推荐）
+- **WebStorm**（JetBrains 出品，付费）
+
+### Go
+- **VS Code** + Go 扩展（推荐）
+- **GoLand**（JetBrains 出品，付费）
+
+### C#
+- **Visual Studio**（首选）
+- **VS Code** + C# 扩展
+- **JetBrains Rider**（跨平台，付费）
+
+## 按场景选择 IDE
+
+### 新手学习编程
+- **VS Code** - 轻量级，易上手
+- **Thonny**（Python）
+- **Dev-C++**（C语言）
+
+### Web 前端开发
+- **VS Code** - 绝对首选
+
+### 企业级开发
+- **IntelliJ IDEA**（Java）
+- **Visual Studio**（C#）
+- **PyCharm**（Python）
+
+### 数据科学
+- **Jupyter Notebook**（Python）
+- **VS Code**（通用）
+- **PyCharm**（Python）
+
+### 算法竞赛
+- **Dev-C++**（简单快速）
+- **VS Code**（功能更强）
+- **CLion**（付费，专业）
+
+### 移动开发
+- **Android Studio**（Android）
+- **Xcode**（iOS，macOS 专有）
+
+## 实用建议
+
+### 可以同时安装多个 IDE 吗？
+
+✅ 可以，但建议根据主要开发语言选择 1-2 个主 IDE
+
+### 不同 IDE 之间会冲突吗？
+
+⚠️ 可能会出现冲突，特别是：
+- VS 和 VS Code 的 C++ 插件可能冲突
+- 多个 IDE 占用大量磁盘空间
+
+### 如何切换 IDE？
+
+大部分 IDE 都可以导入项目，可以随时切换
+
+## 我的推荐
+
+### 计算机专业学生
+
+```bash
+主力 IDE: VS Code
+备用 IDE:
+  - Python → PyCharm
+  - Java → IntelliJ IDEA
+  - C++ → CLion 或 VS Code
+```
+
+### 初学者
+
+```bash
+Python: VS Code + Python 扩展
+C/C++: Dev-C++（简单）或 VS Code（功能强）
+```
+
+### Web 开发者
+
+```bash
+首选: VS Code
+```
+
+### 为什么强烈推荐 VS Code？
+
+1. **通用性** - 几乎支持所有语言
+2. **免费** - 完全免费且开源
+3. **插件丰富** - 想要什么功能都有插件
+4. **轻量级** - 启动快，占用资源少
+5. **社区活跃** - 大量的教程和问题解决方案
+6. **持续更新** - 微软持续维护和改进
+
+## 更多资源
+
+- [工具软件简介 - OI Wiki](https://oi-wiki.org/tools/)
+- [VS Code 官网](https://code.visualstudio.com/)
+- [JetBrains IDE 介绍](https://www.jetbrains.com/zh-cn/ide/)
+
+---
+
+**总结**：对于大多数情况，VS Code 是最好的选择。当你有特殊需求时（如大型 Java 项目），再考虑专业 IDE。

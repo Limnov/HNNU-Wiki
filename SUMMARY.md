@@ -85,6 +85,13 @@
 ## 薅羊毛
 * [GitHub学生认证](/薅羊毛/GitHub学生认证.md)
 * [宝塔面板学生认证](/薅羊毛/宝塔面板学生认证.md)
+* [阿里云学生认证](/薅羊毛/阿里云学生认证.md)
+* [腾讯云学生认证](/薅羊毛/腾讯云学生认证.md)
+* [JetBrains学生包](/薅羊毛/JetBrains学生包.md)
+* [Microsoft Office学生优惠](/薅羊毛/Microsoft Office学生优惠.md)
+* [Notion学生优惠](/薅羊毛/Notion学生优惠.md)
+* [AutoDesk学生认证](/薅羊毛/AutoDesk学生认证.md)
+* [流媒体学生优惠](/薅羊毛/流媒体学生优惠.md)
 
 ## 大家的话
 * [Freakk](/大家的话/Freakk.md)
