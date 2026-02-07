@@ -9,12 +9,10 @@
 
 [![星标](https://img.shields.io/github/stars/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=星标)](https://github.com/Freakz3z/HNNU-Wiki/stargazers)
 [![复刻](https://img.shields.io/github/forks/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=复刻)](https://github.com/Freakz3z/HNNU-Wiki/network/members)
-[![关注](https://img.shields.io/github/watchers/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=关注)](https://github.com/Freakz3z/HNNU-Wiki/watchers)
 [![仓库大小](https://img.shields.io/github/repo-size/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=大小)](https://github.com/Freakz3z/HNNU-Wiki)
 
 [![问题](https://img.shields.io/github/issues/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=问题)](https://github.com/Freakz3z/HNNU-Wiki/issues)
 [![已解决](https://img.shields.io/github/issues-closed/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=已解决)](https://github.com/Freakz3z/HNNU-Wiki/issues?q=is%3Aissue+is%3Aclosed)
-[![合并请求](https://img.shields.io/github/issues-pr/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=合并请求)](https://github.com/Freakz3z/HNNU-Wiki/pulls)
 [![已合并](https://img.shields.io/github/issues-pr-closed/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=已合并)](https://github.com/Freakz3z/HNNU-Wiki/pulls?q=is%3Apr+is%3Aclosed)
 
 [![最后提交](https://img.shields.io/github/last-commit/Freakz3z/HNNU-Wiki?style=flat&logo=github&logoColor=white&label=最后提交)](https://github.com/Freakz3z/HNNU-Wiki/commits/main)
@@ -44,8 +42,6 @@
 
 - 2024-10-22: 手册第一版发布
 - 2026-02-04: 手册第二版发布，内容全面更新，自制文档平台，支持国内访问
-
-详细见[CHANGELOG](/CHANGELOG.md)。
 
 ## 贡献指南
 
