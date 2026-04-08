@@ -7,17 +7,17 @@
 一个专为海南师范大学学生打造的Wiki
 
 
-[![星标](https://img.shields.io/github/stars/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=星标)](https://github.com/Freakz3z/HNNU-Wiki/stargazers)
-[![复刻](https://img.shields.io/github/forks/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=复刻)](https://github.com/Freakz3z/HNNU-Wiki/network/members)
-[![仓库大小](https://img.shields.io/github/repo-size/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=大小)](https://github.com/Freakz3z/HNNU-Wiki)
+[![星标](https://img.shields.io/github/stars/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=星标)](https://github.com/Freakz2z/HNNU-Wiki/stargazers)
+[![复刻](https://img.shields.io/github/forks/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=复刻)](https://github.com/Freakz2z/HNNU-Wiki/network/members)
+[![仓库大小](https://img.shields.io/github/repo-size/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=大小)](https://github.com/Freakz2z/HNNU-Wiki)
 
-[![问题](https://img.shields.io/github/issues/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=问题)](https://github.com/Freakz3z/HNNU-Wiki/issues)
-[![已解决](https://img.shields.io/github/issues-closed/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=已解决)](https://github.com/Freakz3z/HNNU-Wiki/issues?q=is%3Aissue+is%3Aclosed)
-[![已合并](https://img.shields.io/github/issues-pr-closed/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=已合并)](https://github.com/Freakz3z/HNNU-Wiki/pulls?q=is%3Apr+is%3Aclosed)
+[![问题](https://img.shields.io/github/issues/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=问题)](https://github.com/Freakz2z/HNNU-Wiki/issues)
+[![已解决](https://img.shields.io/github/issues-closed/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=已解决)](https://github.com/Freakz2z/HNNU-Wiki/issues?q=is%3Aissue+is%3Aclosed)
+[![已合并](https://img.shields.io/github/issues-pr-closed/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=已合并)](https://github.com/Freakz2z/HNNU-Wiki/pulls?q=is%3Apr+is%3Aclosed)
 
-[![最后提交](https://img.shields.io/github/last-commit/Freakz3z/HNNU-Wiki?style=flat&logo=github&logoColor=white&label=最后提交)](https://github.com/Freakz3z/HNNU-Wiki/commits/main)
-[![提交活跃度](https://img.shields.io/github/commit-activity/m/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=活跃度)](https://github.com/Freakz3z/HNNU-Wiki/graphs/commit-activity)
-[![贡献者](https://img.shields.io/github/contributors/Freakz3z/HNNU-Wiki?style=flat&logo=github&label=贡献者)](https://github.com/Freakz3z/HNNU-Wiki/graphs/contributors)
+[![最后提交](https://img.shields.io/github/last-commit/Freakz2z/HNNU-Wiki?style=flat&logo=github&logoColor=white&label=最后提交)](https://github.com/Freakz2z/HNNU-Wiki/commits/main)
+[![提交活跃度](https://img.shields.io/github/commit-activity/m/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=活跃度)](https://github.com/Freakz2z/HNNU-Wiki/graphs/commit-activity)
+[![贡献者](https://img.shields.io/github/contributors/Freakz2z/HNNU-Wiki?style=flat&logo=github&label=贡献者)](https://github.com/Freakz2z/HNNU-Wiki/graphs/contributors)
 
 如果你觉得这个项目对你有帮助,请给我们一个⭐️吧!
 
@@ -57,4 +57,4 @@
 
 感谢所有为本项目贡献的同学!
 
-![贡献者](https://contrib.rocks/image?repo=Freakz3z/HNNU-Wiki)
+![贡献者](https://contrib.rocks/image?repo=Freakz2z/HNNU-Wiki)

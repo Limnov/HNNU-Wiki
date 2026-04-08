@@ -4,7 +4,7 @@
 作者：Freakk
 专业：软件工程（NIIT）
 学校：海南师范大学
-GitHub：@Freakz3z
+GitHub：@Freakz2z
 ```
 
 <div align="center">

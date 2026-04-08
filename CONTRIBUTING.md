@@ -255,7 +255,7 @@ console.log("Hello, World!");
 外部链接：
 
 ```markdown
-[GitHub](https://github.com/Freakz3z/HNNU-Wiki)
+[GitHub](https://github.com/Freakz2z/HNNU-Wiki)
 ```
 
 #### 表格
@@ -375,8 +375,8 @@ git commit -m "docs: 更新 README.md 徽章"
 如果在贡献过程中遇到问题：
 
 1. 查看 [如何提交 PR](/关于/手册/如何提交PR.md)
-2. 在 GitHub 上提出 [Issue](https://github.com/Freakz3z/HNNU-Wiki/issues)
-3. 参与 [Discussions](https://github.com/Freakz3z/HNNU-Wiki/discussions) 讨论
+2. 在 GitHub 上提出 [Issue](https://github.com/Freakz2z/HNNU-Wiki/issues)
+3. 参与 [Discussions](https://github.com/Freakz2z/HNNU-Wiki/discussions) 讨论
 
 ---
 
